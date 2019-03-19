@@ -1,0 +1,33 @@
+#######################################
+# Keywords for MotoMama Library
+# @author   J.Villalobos  Abr.2018
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MotoMamaLib	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+forward	KEYWORD2
+backward	KEYWORD2
+left	KEYWORD2
+right	KEYWORD2
+leftSpeed	KEYWORD2
+rightSpeed	KEYWORD2
+stop	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RIGHTDIR1	LITERAL1
+RIGHTDIR2	LITERAL1
+RIGHTSPEED	LITERAL1
+LEFTDIR1	LITERAL1
+LEFTDIR2	LITERAL1
+LEFTSPEED	LITERAL1
